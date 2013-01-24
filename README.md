@@ -14,7 +14,7 @@ then deploy it from there to the known nodes from the capistrano script.
 Add these line to your application's Gemfile:
 
     group :development do
-      gem 'capstrano-s3-copy'
+      gem 'capistrano-s3-copy'
     end  
 
 And then execute:
